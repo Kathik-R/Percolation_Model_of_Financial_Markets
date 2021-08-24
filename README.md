@@ -6,7 +6,8 @@ by greater magnitudes and with greater frequency than what the Gaussian
 model predicts. The NIFTY 50 Index has shown daily percentage returns 
 beyond -5% and +5%, 51 times since January 2000. The Gaussian model 
 would need a considerably larger period to witness such extreme 
-fluctuations. 
+fluctuations.
+
 Percolation theory, a branch of statistical physics, is used to model the local 
 interactions between traders in a market. Stauffer and Penna (1998) also 
 incorporated percolation theory to model financial markets. Their model 
@@ -15,6 +16,7 @@ market trends without the analysis of the economic data available to them.
 Stauffer and Penna assumed that people form a cluster sharing the same 
 information by going to a neighbourhood bank or broker for investment 
 opinions. 
+
 The objective of this paper is to show that the market returns are not 
 normally distributed and check if the fat tails can be explained by local 
 interactions between traders in stock markets. The hypothesis that has 
